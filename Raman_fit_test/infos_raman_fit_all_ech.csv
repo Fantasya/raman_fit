@@ -1,0 +1,48 @@
+	0	1
+ID	893 notrib zone:1 test:1 no_annealing energy:nan	E02 notrib zone:1 test:1 no_annealing energy:nan
+G1_amp_ini	<Parameter 'G_a1', 1, bounds=[0:inf]>	<Parameter 'G_a1', 1, bounds=[0:inf]>
+G1_amp	0.21760582103744897	0.24681866563586552
+G1_freq_ini	<Parameter 'G_f1', 1180, bounds=[900:1200]>	<Parameter 'G_f1', 1180, bounds=[900:1200]>
+G1_freq	904.6039376938531	1199.999198403228
+G1_FWHM_ini	<Parameter 'G_l1', 282, bounds=[100:300]>	<Parameter 'G_l1', 282, bounds=[100:300]>
+G1_FWHM	112.26591748344153	100.05239030775599
+G2_amp_ini	<Parameter 'G_a2', 1, bounds=[0:inf]>	<Parameter 'G_a2', 1, bounds=[0:inf]>
+G2_amp	4.667757229928553	6.211520433876808
+G2_freq_ini	<Parameter 'G_f2', 1372, bounds=[1365:1380]>	<Parameter 'G_f2', 1372, bounds=[1365:1380]>
+G2_freq	1379.9999978239025	1372.3583294642976
+G2_FWHM_ini	<Parameter 'G_l2', 262, bounds=[0:300]>	<Parameter 'G_l2', 262, bounds=[0:300]>
+G2_FWHM	187.49376729607997	195.12692464776958
+G3_amp_ini	<Parameter 'G_a3', 8, bounds=[0:inf]>	<Parameter 'G_a3', 8, bounds=[0:inf]>
+G3_amp	9.360627265792953	8.24061034763512
+G3_freq_ini	<Parameter 'G_f3', 1562, bounds=[1558:1568]>	<Parameter 'G_f3', 1562, bounds=[1558:1568]>
+G3_freq	1567.0086757433894	1567.9999145096988
+G3_FWHM_ini	<Parameter 'G_l3', 204, bounds=[0:300]>	<Parameter 'G_l3', 204, bounds=[0:300]>
+G3_FWHM	155.30431314909765	177.33496377188277
+B1_amp_ini + cst	<Parameter 'B_a1', 0, bounds=[0:0.001]>	<Parameter 'B_a1', 0, bounds=[0:0.001]>
+B1_amp + cst	0.0005477476879283734	1.50360020716106e-06
+B1_freq_ini	<Parameter 'B_f1', 1000, bounds=[900:1568]>	<Parameter 'B_f1', 1000, bounds=[900:1568]>
+B1_freq	949.1246255952932	1409.8542363514423
+B1_FWHM_ini	<Parameter 'B_l1', 204, bounds=[0:300]>	<Parameter 'B_l1', 204, bounds=[0:300]>
+B1_FWHM	108.27187488063221	61.75703910866646
+B1_q_ini	<Parameter 'B_q1', -100, bounds=[-101:-100]>	<Parameter 'B_q1', -100, bounds=[-101:-100]>
+B1_q	-100.43198681208911	-100.40673213711517
+cst_a_ini	<Parameter 'lin_a', 0, bounds=[-0.001:0]>	<Parameter 'lin_a', 0, bounds=[-0.001:0]>
+cst_a	-0.0009998726561716233	-0.00031038564524741587
+cst_b_ini	<Parameter 'lin_b', 0, bounds=[0:1.2e-06]>	<Parameter 'lin_b', 0, bounds=[0:1.2e-06]>
+cst_b	1.3279660984188977e-13	6.93694113886217e-08
+B1_amp	-0.0004521248422027173	-0.00021108128652080053
+G1_area	1.8393702329360387e-07	0.009075110966189417
+G2_area	0.3756712307467034	0.44937456589121494
+G3_area	0.6240441366407583	0.541499161701322
+B1_area	0.00028444867551505885	5.1161441273696545e-05
+shift	1099.9	800.0
+intensity	557.0	123.0
+name_ech	893	E02
+trib	False	False
+name_zone	1	1
+num_test	1	1
+other		
+energy		
+annealing		
+intensity_smooth	587.9724828017513	124.28424015009381
+I_D/I_G	-10324.045029659506	-29427.148830953844
